@@ -1,0 +1,50 @@
+{
+  "name": "qdc",
+  "version": "1.0.0",
+  "description": "Quick Deep Clone",
+  "main": "index.js",
+  "repository": "https://github.com/uniibu/qdc.git",
+  "author": "Uni Sayo <unibtc@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "object",
+    "obj",
+    "properties",
+    "clone",
+    "copy",
+    "deep",
+    "recursive",
+    "key",
+    "keys",
+    "values",
+    "prop",
+    "deep-clone",
+    "deepclone",
+    "deep-copy",
+    "deepcopy",
+    "fast",
+    "performance",
+    "performant",
+    "fastclone",
+    "fastcopy",
+    "fast-clone",
+    "fast-deep-clone",
+    "fast-copy",
+    "fast-deep-copy",
+    "quick-deep-clone"
+  ],
+  "scripts": {
+    "bench": "node benchmark"
+  },
+  "devDependencies": {
+    "clone": "^2.1.2",
+    "clone-deep": "^4.0.1",
+    "deep-clone": "^3.0.3",
+    "deep-copy": "^1.4.2",
+    "fast-copy": "^2.0.3",
+    "fastbench": "^1.0.1",
+    "lodash.clonedeep": "^4.5.0",
+    "rfdc": "^1.1.2",
+    "tap": "^12.5.3"
+  }
+}
